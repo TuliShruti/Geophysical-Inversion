@@ -1,6 +1,6 @@
-# Seismic Potential Modeling and Bayesian Inference
+# Self Potential Modeling and Bayesian Inference
 
-This project focuses on modeling Seismic Potential (SP) using Bayesian inference. The code implements a probabilistic approach to analyze and predict SP values, incorporating uncertainty quantification and posterior predictive checks. It leverages libraries like PyMC, NumPy, and Matplotlib to construct priors, likelihoods, and posterior distributions.
+This project focuses on modeling Self Potential (SP) using Bayesian inference. The code implements a probabilistic approach to analyze and predict SP values, incorporating uncertainty quantification and posterior predictive checks. It leverages libraries like PyMC, NumPy, and Matplotlib to construct priors, likelihoods, and posterior distributions.
 
 ---
 
